@@ -1,2 +1,4 @@
 # ICD-11
-Oppgradering til ICD-11 i Norge
+ICD er forkortelse for Den internasjonale klassifikasjonen av sykdommer (International Classification of Disease; ICD). ICD er et kodeverk for systematisk klassifisering og registrering av sykdommer og beslektede helseproblemer, og benyttes i hele verden. Den internasjonale versjonen eies og forvaltes av Verdens helseorganisasjon (WHO), og Norge er forpliktet til å bruke den siste versjonen av ICD ved rapportering til WHO.
+
+ICD-10 er primært basert på medisinskfaglig kunnskap som var tilgjengelig ved publikasjon i 1999. WHO lanserte ICD-11, klar til bruk, under World Health Assembly  i 2022. ICD-11 har oppdatert innhold og en struktur som speiler moderne medisinsk forståelse og kunnskap om sykdommer. Kodeverket er utvidet med flere nye kapitler, kategorier og koder. Dette omfatter betydningsfulle endringer innen blant annet immunologi, allergi, søvn, seksuell helse og særlig  psykiske lidelser. WHO har anbefalt at medlemsland tar i bruk ICD-11 så snart som mulig. 
