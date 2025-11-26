@@ -1,0 +1,9 @@
+services:
+  icd-api:
+    image: whoicd/icd-api
+    ports:
+      - "1902:80"
+    environment:
+      - acceptLicense=true
+      - saveAnalytics=true
+      - fhirSupport=true
